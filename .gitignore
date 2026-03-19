@@ -1,5 +1,5 @@
 *.out
-./mnist
+mnist/
 
 # OS files
 .DS_Store
