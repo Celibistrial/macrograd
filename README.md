@@ -1,5 +1,7 @@
 # macrograd
-<img src="./resources/cool-image.jpg" alt="Cool-Image" width="800">
+<p align="center">
+  <img src="./resources/cool-image.jpg" alt="Cool-Image" width="600">
+</p>
 
 A minimal autograd engine implemented in pure C, designed around a contiguous memory model. Builds scalar computation graphs and performs gradient propagation efficiently, with a lightweight neural network layer on top. Distributed as a single-header library.
 
